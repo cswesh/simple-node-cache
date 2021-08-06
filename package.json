@@ -1,0 +1,17 @@
+{
+  "name": "simple-node-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.1"
+  }
+}
